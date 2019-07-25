@@ -4,7 +4,6 @@ class LoggerSingleton{
 
     private LoggerSingleton(){}  
       
-    //
     public static LoggerSingleton getInstance(){  
      return loggerSingleton;  
     }  
