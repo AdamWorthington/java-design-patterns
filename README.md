@@ -7,3 +7,5 @@ A repo dedicated to providing code sample and explinations for different java de
 [Factory Design Pattern](https://github.com/AdamWorthington/java-design-patterns/tree/master/factory)
 
 [Singleton Design Pattern](https://github.com/AdamWorthington/java-design-patterns/tree/master/singleton)
+
+[Adapter Design Pattern](https://github.com/AdamWorthington/java-design-patterns/tree/master/adapter)
